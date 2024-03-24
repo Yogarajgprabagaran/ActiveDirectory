@@ -60,4 +60,5 @@ Verifying the above steps in Active Directory Users and Computers <br/>
   Active Directory Initial Configuration <br />
   Group Policy and File System Permissions <br />
   WSUS Config and Active Directory Backup and Authoritative Restore <br />
+  Active Directory Bulk User Creation utilizing Powershell <br />
 </p>
