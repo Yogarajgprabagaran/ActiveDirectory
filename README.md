@@ -56,4 +56,8 @@ Verifying the above steps in Active Directory Users and Computers <br/>
 <img src=https://github.com/Yogarajgprabagaran/ActiveDirectory-Projects/assets/162944315/3770dfc1-eeff-44c6-a639-6f753faf5e47" height="80%" width="80%"/>
 <br />
 <br />
+<h2>Other Active Directory Projects and Labs:</h2>
+  Active Directory Initial Configuration <br />
+  Group Policy and File System Permissions <br />
+  WSUS Config and Active Directory Backup and Authoritative Restore <br />
 </p>
